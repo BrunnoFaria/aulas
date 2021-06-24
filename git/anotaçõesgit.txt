@@ -1,0 +1,19 @@
+Processos do Git e Do GitHub
+ Criar uma pasta e para que essa pasta guarde os documentos que vc irá criar.
+ Adicionar ela ao VS Code
+ 1- git init -> Ter a ideia de enviar algo e começar a prepar o ambiente, sua 
+ área de trabalho para o envio.
+ 2- git add . -> Pegar o pacote na mesa para o envio.
+ 3- git commit -m -> "nome do meu documento" -> Nomeando esse pacote, com a
+ descrição e o que tem dentro dele ou qualquer tipo de alteração.
+ 4- criar o repositório -> endereço para onde ele será enviado.
+ 5- git remote add origin "site do repositório" -> Dar a etiqueta ao pacote.
+ 6- git push origin master ou main (de acordo com a sua máquina local) Despachar
+ nos correios.
+ 7 git status -> Olhar e confirmar se está tudo Ok com as alterações.
+
+ Na Modificação
+ 1- git add .
+ 2- git status
+ 3- git commit -m "nome do arquivo ou atualização"
+ 4- git push origin master
